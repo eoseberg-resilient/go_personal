@@ -1,0 +1,12 @@
+describe
+tell me about
+what is
+
+do
+perform
+execute
+
+ask
+how
+why
+when

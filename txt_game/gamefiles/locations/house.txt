@@ -1,0 +1,17 @@
+- house
+house description
+
+1 bedroom
+Bedroom description
+
+2 living room
+living room description
+
+3 bathroom
+bathroom description
+
+4 hallway
+hallway description
+
+5 kitchen
+kitchen description
